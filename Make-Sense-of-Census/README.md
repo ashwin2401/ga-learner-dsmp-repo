@@ -9,7 +9,4 @@
 
 
 ### Approach taken to solve the problem
-
- Its for clearing the concept of using numpy libraries
-
-
+Took lot of effort to decode it i gone through from many repositories finaally able to crack. 
