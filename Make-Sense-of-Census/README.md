@@ -9,4 +9,4 @@
 
 
 ### Approach taken to solve the problem
-Took lot of effort to decode it i gone through from many repositories finaally able to crack. 
+Took lot of effort to decode it i gone through from many repositories finally able to crack. 
